@@ -11,4 +11,4 @@ This project was developed using **IntelliJ IDEA**. Feel free to use or edit the
 ## How to Use
 1. Clone the repository to your local machine:
    ```bash
-   git clone <https://github.com/BlackBossX/BECS-12243-OOP-Labs.git>
+   git clone https://github.com/BlackBossX/BECS-12243-OOP-Labs.git
