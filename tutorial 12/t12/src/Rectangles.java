@@ -1,20 +1,11 @@
-public class Rectangles implements Signs {
+public class Rectangles extends Shapes {
     double width;
     double length;
-    String color;
 
     Rectangles(double width, double length, String color) {
         this.width = width;
         this.length = length;
         this.color = color;
-    }
-
-    public void printSign() {
-
-    }
-
-    public void printArea() {
-
     }
 
     public boolean fitsText(String text) {

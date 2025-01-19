@@ -1,3 +1,3 @@
-interface Signs extends Shapes {
-    public void drawSign();
+interface Signs {
+    public abstract void drawSign();
 }

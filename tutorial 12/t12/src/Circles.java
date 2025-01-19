@@ -1,18 +1,9 @@
-public class Circles implements Signs {
-    String color;
+public class Circles extends Shapes {
     double radius;
 
     Circles(double radius, String color) {
         this.radius = radius;
         this.color = color;
-    }
-
-    public void printSign() {
-
-    }
-
-    public void printArea() {
-
     }
 
     public boolean fitsText(String text) {

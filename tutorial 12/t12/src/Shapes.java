@@ -1,5 +1,5 @@
-interface Shapes {
+abstract class Shapes implements Signs {
+    String color;
 
-    public boolean fitsText(String text);
-
+    public abstract boolean fitsText(String text);
 }
